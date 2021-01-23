@@ -7,18 +7,20 @@ import org.apache.logging.log4j.Logger;
 
 
 public class Ship implements Runnable {
-    Logger logger= LogManager.getLogger();
-    ShipState state;
+    private static final Logger logger= LogManager.getLogger();
+    private static ShipState state;
     int cargo;
-    public Ship(ShipState purpose) {
-        this.state = purpose;
+    public Ship(ShipState state) {
+        this.state = state;
     }
 
     public void run() {
+        logger.log(Level.INFO,state);
         try {
             state.doWork(cargo);
         } catch (InterruptedException e) {
             logger.log(Level.ERROR,e);
         }
+        logger.log(Level.INFO,"end of thread work ");
     }
 }

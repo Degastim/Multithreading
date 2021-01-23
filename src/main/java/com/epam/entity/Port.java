@@ -1,12 +1,16 @@
 package com.epam.entity;
 
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Port {
-
+    private static final Logger logger = LogManager.getLogger();
     private int capacity;
-    int occupiedPlace;
+    private int occupiedPlace;
     private static Lock locker = new ReentrantLock();
 
     private Port() {
@@ -25,8 +29,10 @@ public class Port {
             locker.lock();
             occupiedPlace -= number;
             locker.unlock();
+            logger.log(Level.INFO,"Unloading\t"+occupiedPlace);
             return true;
         } else {
+            logger.log(Level.INFO,"No product to unloading\t"+occupiedPlace);
             return false;
         }
     }
@@ -36,14 +42,12 @@ public class Port {
             locker.lock();
             occupiedPlace += number;
             locker.unlock();
+            logger.log(Level.INFO,"Loading\t"+occupiedPlace);
             return true;
         } else {
+            logger.log(Level.INFO,"No space to loading\t"+occupiedPlace);
             return false;
         }
-    }
-
-    public int getCapacity() {
-        return capacity;
     }
 
     public void init(int capacity) {

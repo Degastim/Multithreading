@@ -1,0 +1,329 @@
+23-01-2021 16:51:43  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:51:43  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:51:43  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:52:14  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:52:14  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:52:14  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:52:46  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:52:46  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:52:46  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:52:46  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:54:05  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@e6f082c
+23-01-2021 16:54:05  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@5eeabe45
+23-01-2021 16:54:05  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@5eeabe45
+23-01-2021 16:54:05  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:05  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:05  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:21  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@69fda72c
+23-01-2021 16:54:21  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@69fda72c
+23-01-2021 16:54:21  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@69fda72c
+23-01-2021 16:54:21  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:21  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:21  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:54:40  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@7764cd58
+23-01-2021 16:54:40  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@7764cd58
+23-01-2021 16:54:40  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@2c555baf
+23-01-2021 16:54:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:54:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:54:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:55:13  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5669844b
+23-01-2021 16:55:13  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5669844b
+23-01-2021 16:55:13  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5669844b
+23-01-2021 16:55:13  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:55:13  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:55:13  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:55:20  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@130e651f
+23-01-2021 16:55:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@c25e52e
+23-01-2021 16:55:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@c25e52e
+23-01-2021 16:55:20  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:55:20  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:55:20  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:06  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@4daec901
+23-01-2021 16:57:06  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@4daec901
+23-01-2021 16:57:06  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@4daec901
+23-01-2021 16:57:06  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:06  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:06  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:14  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@35ab90b7
+23-01-2021 16:57:14  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@35ab90b7
+23-01-2021 16:57:14  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@35ab90b7
+23-01-2021 16:57:14  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:14  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:14  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1fad5a4
+23-01-2021 16:57:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@35ea4333
+23-01-2021 16:57:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1fad5a4
+23-01-2021 16:57:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:33  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@53f5a550
+23-01-2021 16:57:33  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:33  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@53f5a550
+23-01-2021 16:57:33  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:33  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@53f5a550
+23-01-2021 16:57:33  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:40  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@3bcc9d56
+23-01-2021 16:57:40  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@3bcc9d56
+23-01-2021 16:57:40  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@3bcc9d56
+23-01-2021 16:57:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:40  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:48  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@7764cd58
+23-01-2021 16:57:48  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@7764cd58
+23-01-2021 16:57:48  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@7764cd58
+23-01-2021 16:57:48  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:48  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:48  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:57:54  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@35b81891
+23-01-2021 16:57:54  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@69c731dc
+23-01-2021 16:57:54  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@35b81891
+23-01-2021 16:57:54  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:54  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:57:54  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 16:58:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5c2d5311
+23-01-2021 16:58:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5c2d5311
+23-01-2021 16:58:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@5c2d5311
+23-01-2021 16:58:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:07  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@67f92e29
+23-01-2021 16:58:07  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@67f92e29
+23-01-2021 16:58:07  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@67f92e29
+23-01-2021 16:58:07  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:07  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:07  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@111a2c3b
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@23e10640
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:20  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:42  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@184159da
+23-01-2021 16:58:42  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@184159da
+23-01-2021 16:58:42  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@184159da
+23-01-2021 16:58:42  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@184159da
+23-01-2021 16:58:42  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@184159da
+23-01-2021 16:58:42  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:42  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:42  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:42  INFO epam.entity.Port loading -No space to loading
+23-01-2021 16:58:42  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:01:26  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@436fc270
+23-01-2021 17:01:26  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@436fc270
+23-01-2021 17:01:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:01:26  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@78c1784f
+23-01-2021 17:01:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1ee39022
+23-01-2021 17:01:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:01:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:01:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:01:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1ee39022
+23-01-2021 17:01:26  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:04:46  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@4b6de61b
+23-01-2021 17:04:35  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@1b5d4a67
+23-01-2021 17:04:35  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@150a82a2
+23-01-2021 17:04:52  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:04:52  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:04:52  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:04:56  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@79293fed
+23-01-2021 17:04:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:04:58  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@4df5906b
+23-01-2021 17:04:58  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:05:07  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@2c555baf
+23-01-2021 17:05:07  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@559aea88
+23-01-2021 17:05:07  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@559aea88
+23-01-2021 17:05:07  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@559aea88
+23-01-2021 17:05:07  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:05:07  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@559aea88
+23-01-2021 17:05:07  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:05:07  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:05:07  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:05:07  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:07:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@70d042d8
+23-01-2021 17:07:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@70d042d8
+23-01-2021 17:07:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@70d042d8
+23-01-2021 17:07:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@70d042d8
+23-01-2021 17:07:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@70d042d8
+23-01-2021 17:07:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:07:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:07:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:07:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:07:01  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:07:51  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1853f554
+23-01-2021 17:07:51  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1853f554
+23-01-2021 17:07:51  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1853f554
+23-01-2021 17:07:51  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@f3facec
+23-01-2021 17:07:51  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:07:51  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@1853f554
+23-01-2021 17:07:51  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:07:51  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:07:51  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:07:51  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:08:52  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@318d8a38
+23-01-2021 17:08:52  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@551c5bab
+23-01-2021 17:08:52  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@551c5bab
+23-01-2021 17:08:52  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@551c5bab
+23-01-2021 17:08:52  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@551c5bab
+23-01-2021 17:08:52  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:08:52  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:08:52  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:08:52  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:08:52  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:02  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@14e7d40b
+23-01-2021 17:09:02  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@14e7d40b
+23-01-2021 17:09:02  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@14e7d40b
+23-01-2021 17:09:02  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@14e7d40b
+23-01-2021 17:09:02  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@14e7d40b
+23-01-2021 17:09:02  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:02  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:02  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:02  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:02  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:25  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@551c5bab
+23-01-2021 17:09:25  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@1509228
+23-01-2021 17:09:25  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@4b70a7a3
+23-01-2021 17:09:25  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@1adc17a1
+23-01-2021 17:09:25  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@1adc17a1
+23-01-2021 17:09:25  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:25  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:25  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:25  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:09:25  INFO epam.entity.Port unloading -No product to unloading
+23-01-2021 17:35:56  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@214ccb24
+23-01-2021 17:35:56  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@436fc270
+23-01-2021 17:35:56  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@436fc270
+23-01-2021 17:35:56  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@436fc270
+23-01-2021 17:35:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:35:56  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@436fc270
+23-01-2021 17:35:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:35:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:35:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:35:56  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:36:28  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@6605815c
+23-01-2021 17:36:28  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@6605815c
+23-01-2021 17:36:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@3e020848
+23-01-2021 17:36:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@388122e0
+23-01-2021 17:36:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@388122e0
+23-01-2021 17:36:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:36:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:36:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:36:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:36:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:37:30  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@7ad0e760
+23-01-2021 17:37:30  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@7ad0e760
+23-01-2021 17:37:30  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@7ad0e760
+23-01-2021 17:37:30  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@7ad0e760
+23-01-2021 17:37:30  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@7ad0e760
+23-01-2021 17:37:30  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:37:30  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:37:30  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:37:30  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:37:30  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:01  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@28ba2111
+23-01-2021 17:46:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@1b7d833a
+23-01-2021 17:46:01  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@3e8b182b
+23-01-2021 17:46:02  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@4d57db07
+23-01-2021 17:46:01  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@13a9a08c
+23-01-2021 17:46:02  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:02  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:02  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:02  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:02  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:11  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@6fd287f4
+23-01-2021 17:46:11  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@6fd287f4
+23-01-2021 17:46:11  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@6fd287f4
+23-01-2021 17:46:11  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:11  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@11b73092
+23-01-2021 17:46:11  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@6fd287f4
+23-01-2021 17:46:11  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:11  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:11  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:46:11  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@358b76ee
+23-01-2021 17:47:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@358b76ee
+23-01-2021 17:47:28  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@358b76ee
+23-01-2021 17:47:28  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@2d8a1c9e
+23-01-2021 17:47:28  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@2d8a1c9e
+23-01-2021 17:47:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 17:47:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 17:47:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 17:47:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Port loading -No space to loading
+23-01-2021 17:47:28  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 17:47:28  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:02:29  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@4762195
+23-01-2021 18:02:29  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@701ab4db
+23-01-2021 18:02:29  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@15679a6d
+23-01-2021 18:02:29  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@15679a6d
+23-01-2021 18:02:29  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@701ab4db
+23-01-2021 18:02:29  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:02:29  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:02:29  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:02:29  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:02:29  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:02:29  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:02:29  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:02:29  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:02:29  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:02:29  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:26  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@cc749de
+23-01-2021 18:03:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@156d4230
+23-01-2021 18:03:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@156d4230
+23-01-2021 18:03:26  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@cc749de
+23-01-2021 18:03:26  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:26  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@156d4230
+23-01-2021 18:03:26  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:26  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:26  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:26  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:26  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:26  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:26  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:26  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:26  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:53  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@5fa644b2
+23-01-2021 18:03:53  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@2da18b56
+23-01-2021 18:03:53  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@2654d0e0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@2654d0e0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@2da18b56
+23-01-2021 18:03:53  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:53  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:53  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:53  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:53  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:03:53  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:03:53  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:28:32  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@34fa6338
+23-01-2021 18:28:32  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@25acf295
+23-01-2021 18:28:32  INFO epam.entity.Ship run -com.epam.state.LoadingShipState@25acf295
+23-01-2021 18:28:32  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@34fa6338
+23-01-2021 18:28:32  INFO epam.entity.Ship run -com.epam.state.UnloadingShipState@34fa6338
+23-01-2021 18:28:32  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:28:32  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:28:32  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:28:32  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:28:32  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:28:32  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:28:32  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:28:32  INFO epam.entity.Ship run -end of thread work 
+23-01-2021 18:28:32  INFO epam.entity.Port loading -No space to loading	0
+23-01-2021 18:28:32  INFO epam.entity.Ship run -end of thread work 
