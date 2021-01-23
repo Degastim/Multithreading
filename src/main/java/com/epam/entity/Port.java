@@ -29,10 +29,10 @@ public class Port {
             locker.lock();
             occupiedPlace -= number;
             locker.unlock();
-            logger.log(Level.INFO,"Unloading\t"+occupiedPlace);
+            logger.log(Level.INFO, "Unloading\t" + occupiedPlace);
             return true;
         } else {
-            logger.log(Level.INFO,"No product to unloading\t"+occupiedPlace);
+            logger.log(Level.INFO, "No product to unloading\t" + occupiedPlace);
             return false;
         }
     }
@@ -42,10 +42,10 @@ public class Port {
             locker.lock();
             occupiedPlace += number;
             locker.unlock();
-            logger.log(Level.INFO,"Loading\t"+occupiedPlace);
+            logger.log(Level.INFO, "Loading\t" + occupiedPlace);
             return true;
         } else {
-            logger.log(Level.INFO,"No space to loading\t"+occupiedPlace);
+            logger.log(Level.INFO, "No space to loading\t" + occupiedPlace);
             return false;
         }
     }
