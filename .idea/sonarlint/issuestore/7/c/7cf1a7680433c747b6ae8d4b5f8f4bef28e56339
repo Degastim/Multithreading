@@ -1,5 +1,5 @@
 
-o
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ƒ•°˜ûÿÿÿÿ8—³ïñ.
 \
 java:S1118":Add a private constructor to hide the implicit public one.(âã½°şÿÿÿÿ8‰¤Ğøñ.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ƒ•°˜ûÿÿÿÿ8—³ïñ.
